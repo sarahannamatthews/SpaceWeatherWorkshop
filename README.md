@@ -1,6 +1,6 @@
-# Space Weather Workshop for SPCE 0017, Academic year 2024/2025:
+# Space Weather Workshop for SPCE0017, Academic year 2026/2027:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/SpaceWeatherWorkshop/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarahannamatthews/SpaceWeatherWorkshop/)
 
 This repository hosts the code files for the Space Weather Forecasting Workshop as part of SPCE0017 module: Space Data Systems and Processing at UCL.
 
